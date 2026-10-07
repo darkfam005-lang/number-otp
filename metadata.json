@@ -1,0 +1,6 @@
+{
+  "name": "Lamix Mobile - SMS Controller & Gateway",
+  "description": "Android phone app for Lamix SMS Gateway. Monitor live messages, traffic, payouts, send SMS, and manage phonebook directly from phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
